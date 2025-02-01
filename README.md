@@ -1,0 +1,2 @@
+# openCV_pywin32gui_pyautogui_IN_shot
+基于opencv和pywin32以及pyautogui的辅助脚本
